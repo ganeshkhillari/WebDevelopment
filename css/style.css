@@ -211,7 +211,7 @@ a.scroll.bnr-btn i{
 /* banner */
 
 .banner-w3pvt {
-	background: url(../images/banner.jpg) no-repeat center;
+	background: url(/WebDevelopment/images/banner.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
 }
@@ -750,7 +750,7 @@ a.move-top span{
 /*-- responsive design --*/
 
 @media(max-width:1440px) {
-    
+
 }
 @media(max-width:1280px) {
     .about-right h4.main {
@@ -1070,10 +1070,10 @@ a.move-top span{
 	}
 }
 @media(max-width:375px) {
-    
+
 }
 @media(max-width:320px) {
-    
+
 }
 
 /*-- //responsive design --*/
