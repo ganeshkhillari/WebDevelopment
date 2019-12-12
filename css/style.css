@@ -570,7 +570,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(images/banner.jpg) 0px 0px;
+    background: images/banner.jpg 0px 0px;
     background-size: cover;
     position: relative;
 }
